@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.time-title-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tags {
+  display: flex;
+  list-style: none;
+}
+.each-tag {
+  background-color: lightblue;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  padding: 4px;
+  border-radius: 8px;
+}
+.time-cont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.chrono-container {
+  width: auto;
+  height: auto;
+  padding: 10px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+.heading {
+  text-align: center;
+}
